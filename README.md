@@ -5,9 +5,12 @@ This Python script scrapes data from Amazon India's Best Sellers in Books sectio
 
 ### Features:
 Scrapes multiple pages of Amazon India's Best Sellers in Books.
+
 Extracts key details: Book Name, Author Name, Rating, and Price.
+
 Saves data in an Excel file for easy analysis.
 ### How to Use:
 Clone the repository.
 Install required libraries: BeautifulSoup, requests, and openpyxl.
+
 Run the script to scrape data and save it into an Excel file.
